@@ -15,24 +15,12 @@ Rush That est un jeu développé avec Unity.
 3. Lancez `Rush that.exe`
 
 ## Contrôles
-- [Ajoutez ici les contrôles de votre jeu]
+- [Z][Q][S][D] : movement
+- [SPACE] : jump
 
 ## Fonctionnalités
-- [Décrivez les principales fonctionnalités de votre jeu]
-
-## Captures d'écran
-[Ajoutez des captures d'écran de votre jeu ici]
+- Touch the green bicone as much as you can during the allotted time.
 
 ## Développement
 - Moteur : Unity
 - Plateforme : Windows
-
-## Licence
-[Spécifiez votre licence ici]
-
-## Contact
-[Vos informations de contact]
-
----
-
-*Développé avec ❤️ en utilisant Unity*
