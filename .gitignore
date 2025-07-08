@@ -1,0 +1,18 @@
+# Fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers système
+.DS_Store
